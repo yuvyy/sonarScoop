@@ -9,5 +9,5 @@ This Python script logs into the local SonarQube instance, retrieves the list of
 1. **Clone or Download** the script.
 2. **Install Dependencies**:
     ```bash
-        pip install -r requirements.txt
+    pip install -r requirements.txt
     ```
