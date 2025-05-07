@@ -1,4 +1,4 @@
-# 🔍 SonarQube Security Hotspots Exporter
+# 🔍 SonarScoop - SonarQube Security Hotspots Exporter
 
 This Python script logs into the local SonarQube instance, retrieves the list of available projects, fetches their security hotspots, and exports them into Excel files for easy auditing and reporting.
 
